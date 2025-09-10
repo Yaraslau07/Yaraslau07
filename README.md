@@ -31,6 +31,14 @@ A clean, functional calculator that handles basic arithmetic operations with a u
 
 Technologies: JavaScript, HTML5, CSS3
 
+🌡️Temperature conventer
+
+https://github.com/Yaraslau07/Temperature-converter
+
+This intuitive temperature converter app with a clean design.
+
+Technologies: JavaScript, HTML5, CSS3
+
 ---
 
 These projects demonstrate my foundational skills in front-end development, DOM manipulation, and creating interactive web applications. Each project focuses on clean code, responsive design, and practical functionality.
