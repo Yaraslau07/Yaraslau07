@@ -9,6 +9,8 @@ My Web Development Portfolio:
 
 🎮 Rock Paper Scissors Game
 
+<img width="773" height="729" alt="Screenshot 2025-09-19 at 1 48 40 PM" src="https://github.com/user-attachments/assets/9dc904c8-34c6-491e-813c-dd614bd3efb6" />
+
 https://github.com/Yaraslau07/Rock-paper-scissors-game
 
 A classic interactive game built with HTML, CSS, and JavaScript. Features a clean UI, score tracking, and responsive design.
@@ -16,6 +18,8 @@ A classic interactive game built with HTML, CSS, and JavaScript. Features a clea
 Technologies: JavaScript, HTML5, CSS3
 
 📱 QR Code Generator
+
+<img width="701" height="706" alt="Screenshot 2025-09-19 at 1 46 39 PM" src="https://github.com/user-attachments/assets/3d52fafe-65b5-4aa5-b19d-0767a93edd74" />
 
 https://github.com/Yaraslau07/QR-code-generator
 
@@ -25,6 +29,8 @@ Technologies: JavaScript, HTML5, CSS3, QR Code API
 
 🔢 Simple Calculator
 
+<img width="349" height="370" alt="Screenshot 2025-09-19 at 1 42 47 PM" src="https://github.com/user-attachments/assets/8b1fe39f-c582-47ba-a3af-663f86cf0d75" />
+
 https://github.com/Yaraslau07/simple-calculator
 
 A clean, functional calculator that handles basic arithmetic operations with a user-friendly interface.
@@ -32,6 +38,8 @@ A clean, functional calculator that handles basic arithmetic operations with a u
 Technologies: JavaScript, HTML5, CSS3
 
 🌡️Temperature conventer
+
+<img width="818" height="424" alt="Screenshot 2025-09-19 at 1 39 14 PM" src="https://github.com/user-attachments/assets/b7120bf5-ecc1-47cd-b1e6-99390a7cf989" />
 
 https://github.com/Yaraslau07/Temperature-converter
 
